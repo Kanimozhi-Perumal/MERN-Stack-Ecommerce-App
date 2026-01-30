@@ -605,10 +605,7 @@ npm run test:watch
 npm run test:coverage
 ```
 
-> [!NOTE]
-> If you encounter any issues when running the tests, ensure that you have run `npm install` in both the `backend` and `root` (frontend) directories to install all necessary dependencies.
->
-> Also, if the issue persists, try removing the `node_modules` directory and the `package-lock.json` file in both directories, and then run `npm install` again to reinstall all dependencies.
+
 
 ## Swagger API Documentation
 
